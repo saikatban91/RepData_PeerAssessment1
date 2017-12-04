@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: "Reproducible Research: Analysing personal activity data"
 output: 
   html_document:
     keep_md: true
